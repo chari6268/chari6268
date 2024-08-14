@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=chari6268&color=blueviolet)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chari6268&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
