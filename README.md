@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chari6268&show_icons=true&theme=radical)
+
 ![](https://komarev.com/ghpvc/?username=chari6268&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chari6268&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
