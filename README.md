@@ -24,4 +24,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=chari6268&color=blueviolet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chari6268&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+<p align="center">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=chari6268&show_icons=true&locale=en" alt="chari6268" /> -->
+    <img src="https://streak-stats.demolab.com?user=chari6268&date_format=j%20M%5B%20Y%5D" /><br>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chari6268&layout=compact"><br><br>
+</p>
