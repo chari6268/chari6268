@@ -3,6 +3,7 @@
 - 🌱 Exploring new technologies and developing real-world applications
 - [My Portfolio](https://srinivasachari.tech/)
 - [Vignanite App (Student Management Application)](https://dev.srinivasachari.tech/)
+- [Screenova](https://screenova.srinivasachari.tech/)
 
 <!--
 **chari6268/chari6268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
