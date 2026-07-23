@@ -239,7 +239,7 @@
   <line x1="474" y1="60" x2="1156" y2="60" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
 
   
-  <clipPath id="hiClip"><rect x="0" y="0" width="31" height="40">
+  <clipPath id="hiClip" clipPathUnits="userSpaceOnUse"><rect x="514" y="74" width="31" height="40">
     <animate attributeName="width" from="0" to="31" dur="0.5" begin="0.2s" fill="freeze"/>
   </rect></clipPath>
   <g clip-path="url(#hiClip)">
@@ -250,19 +250,14 @@
     &#128075;
   </text>
 
-  <clipPath id="nameClip"><rect x="0" y="0" width="0" height="44">
-    <animate attributeName="width" from="0" to="465" dur="1.1s" begin="1.1s" fill="freeze"/>
-  </rect></clipPath>
-  <g clip-path="url(#nameClip)" transform="translate(514,0)">
-    <text x="0" y="134" font-family="Consolas,monospace" font-size="25" font-weight="700" fill="url(#accentGradient)">I&#x27;m Srinivasa Chari Perusomula</text>
-  </g>
+  <text x="514" y="134" font-family="Consolas,monospace" font-size="25" font-weight="700" fill="url(#accentGradient)">I&#x27;m Srinivasa Chari Perusomula</text>
 
   <text x="514" y="174" font-family="Consolas,monospace" font-size="18" fill="#22D3EE">&gt;</text>
   
   <g opacity="0">
     <animate id="tag0_show" attributeName="opacity" from="0" to="1" begin="0s;tag4_hide.end" dur="0.01s" fill="freeze"/>
     <animate id="tag0_hide" attributeName="opacity" from="1" to="0" begin="tag0_show.begin+2.3s" dur="0.35s" fill="freeze"/>
-    <clipPath id="tag0Clip"><rect x="0" y="0" width="0" height="30">
+    <clipPath id="tag0Clip" clipPathUnits="userSpaceOnUse"><rect x="540" y="159" width="0" height="30">
       <animate attributeName="width" from="0" to="216" begin="tag0_show.begin" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <g clip-path="url(#tag0Clip)">
@@ -273,7 +268,7 @@
   <g opacity="0">
     <animate id="tag1_show" attributeName="opacity" from="0" to="1" begin="tag0_hide.end" dur="0.01s" fill="freeze"/>
     <animate id="tag1_hide" attributeName="opacity" from="1" to="0" begin="tag1_show.begin+2.3s" dur="0.35s" fill="freeze"/>
-    <clipPath id="tag1Clip"><rect x="0" y="0" width="0" height="30">
+    <clipPath id="tag1Clip" clipPathUnits="userSpaceOnUse"><rect x="540" y="159" width="0" height="30">
       <animate attributeName="width" from="0" to="292" begin="tag1_show.begin" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <g clip-path="url(#tag1Clip)">
@@ -284,7 +279,7 @@
   <g opacity="0">
     <animate id="tag2_show" attributeName="opacity" from="0" to="1" begin="tag1_hide.end" dur="0.01s" fill="freeze"/>
     <animate id="tag2_hide" attributeName="opacity" from="1" to="0" begin="tag2_show.begin+2.3s" dur="0.35s" fill="freeze"/>
-    <clipPath id="tag2Clip"><rect x="0" y="0" width="0" height="30">
+    <clipPath id="tag2Clip" clipPathUnits="userSpaceOnUse"><rect x="540" y="159" width="0" height="30">
       <animate attributeName="width" from="0" to="238" begin="tag2_show.begin" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <g clip-path="url(#tag2Clip)">
@@ -295,7 +290,7 @@
   <g opacity="0">
     <animate id="tag3_show" attributeName="opacity" from="0" to="1" begin="tag2_hide.end" dur="0.01s" fill="freeze"/>
     <animate id="tag3_hide" attributeName="opacity" from="1" to="0" begin="tag3_show.begin+2.3s" dur="0.35s" fill="freeze"/>
-    <clipPath id="tag3Clip"><rect x="0" y="0" width="0" height="30">
+    <clipPath id="tag3Clip" clipPathUnits="userSpaceOnUse"><rect x="540" y="159" width="0" height="30">
       <animate attributeName="width" from="0" to="292" begin="tag3_show.begin" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <g clip-path="url(#tag3Clip)">
@@ -306,7 +301,7 @@
   <g opacity="0">
     <animate id="tag4_show" attributeName="opacity" from="0" to="1" begin="tag3_hide.end" dur="0.01s" fill="freeze"/>
     <animate id="tag4_hide" attributeName="opacity" from="1" to="0" begin="tag4_show.begin+2.3s" dur="0.35s" fill="freeze"/>
-    <clipPath id="tag4Clip"><rect x="0" y="0" width="0" height="30">
+    <clipPath id="tag4Clip" clipPathUnits="userSpaceOnUse"><rect x="540" y="159" width="0" height="30">
       <animate attributeName="width" from="0" to="248" begin="tag4_show.begin" dur="1.0s" fill="freeze"/>
     </rect></clipPath>
     <g clip-path="url(#tag4Clip)">
@@ -350,7 +345,7 @@
     <rect width="47" height="28" rx="14" fill="rgba(124,58,237,0.12)" stroke="url(#accentGradient)" stroke-width="1" filter="url(#pillGlow)">
       <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.0s" repeatCount="indefinite"/>
     </rect>
-    <text x="24" y="18" text-anchor="middle" font-family="Consolas,monospace" font-size="12.5" fill="#E2E8F0">Go</text>
+    <text x="24" y="18" text-anchor="middle" font-family="Consolas,monospace" font-size="12.5" fill="#E2E8F0">Java</text>
   </g>
 
   <g opacity="0" transform="translate(571,364)">
@@ -359,7 +354,7 @@
     <rect width="62" height="28" rx="14" fill="rgba(124,58,237,0.12)" stroke="url(#accentGradient)" stroke-width="1" filter="url(#pillGlow)">
       <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
     </rect>
-    <text x="31" y="18" text-anchor="middle" font-family="Consolas,monospace" font-size="12.5" fill="#E2E8F0">Java</text>
+    <text x="31" y="18" text-anchor="middle" font-family="Consolas,monospace" font-size="12.5" fill="#E2E8F0">Go</text>
   </g>
 
   <g opacity="0" transform="translate(644,364)">
