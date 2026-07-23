@@ -166,7 +166,7 @@
   <circle cx="48" cy="42" r="5" fill="#EF4444" opacity="0.8"/>
   <circle cx="66" cy="42" r="5" fill="#F59E0B" opacity="0.8"/>
   <circle cx="84" cy="42" r="5" fill="#10B981" opacity="0.8"/>
-  <text x="104" y="46" font-family="Consolas,monospace" font-size="12" fill="#64748B">portrait.ascii</text>
+  <text x="104" y="46" font-family="Consolas,monospace" font-size="12" fill="#64748B">Srinivasa Chari Perusomula</text>
   <line x1="24" y1="60" x2="454" y2="60" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
 
   <g filter="url(#softGlow)">
