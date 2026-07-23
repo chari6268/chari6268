@@ -1,10 +1,15 @@
+<picture>
+  <img alt="profile banner" src="./dark.svg">
+</picture>
+
+<!--
 # Hi there 👋
 
 - 🌱 Exploring new technologies and developing real-world applications  
 - 🔗 [Portfolio](https://srinivasachari.live/)  
 - 📘 [Vignanite App (Student Management)](https://dev.srinivasachari.live/)  
 - 🖥️ [Screenova](https://screenova.tech/)  
-
+-->
 ---
 
 ![](https://komarev.com/ghpvc/?username=chari6268&color=blueviolet)
